@@ -1,3 +1,0 @@
-# test
-use to study java
-main to study java,springboot,redis,rabbitmq...
